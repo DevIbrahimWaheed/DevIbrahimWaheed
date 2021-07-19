@@ -6,3 +6,5 @@
 - 📫 How to reach me https://www.linkedin.com/in/ibrahim-waheed-84164a83
 
 
+## Some of my projects might no be fully complete as I am still working on them 😏
+
