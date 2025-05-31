@@ -1,10 +1,14 @@
-### Hi there , I'm Ibrahim for short ibby.....  
+### Hey there — I’m Ibrahim, but you can call me Ibby 👋
 
-## Computer Science Grad
-- 🔭 I'm currently working on improving my github doing various projects in React/Angular, Node(javascript) /ASP.net(C#), 
-- 🌱 I’m currently learning MERN and MEAN stack and doing some pure OOP tasks for practice 
-- 📫 How to reach me https://www.linkedin.com/in/ibrahim-waheed-84164a83
+## 💻 Computer Science Graduate | Full-Stack Explorer
 
+- 🔧 Currently refining my GitHub with a variety of hands-on projects using **React**, **Angular**, **Node.js**, and **ASP.NET (C#)**
+- 🌱 Actively diving deeper into the **MERN** and **MEAN** stacks, while sharpening my fundamentals through **OOP challenges**
+- 🌐 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ibrahim-waheed-84164a83)
 
-## Some of my projects might no be fully complete as I am still working on them 😏
+---
 
+## 🚧 Work in Progress
+
+Many of my projects are still under construction — but that's the beauty of building in public. I'm constantly learning, experimenting, and evolving. Stay tuned for what’s coming next 😎
+****
